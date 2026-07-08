@@ -135,7 +135,6 @@ function Result() {
     strengths={data.strengths}
 />
 
-
 <RecommendationCard
     recommendation={data.recommendation}
 />
