@@ -1,4 +1,4 @@
-function InterviewQuestionCard({ questions }) {
+function InterviewQuestion({ questions }) {
 
     return (
 
@@ -26,4 +26,4 @@ function InterviewQuestionCard({ questions }) {
 
 }
 
-export default InterviewQuestionCard;
+export default InterviewQuestion;
