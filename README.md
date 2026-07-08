@@ -59,25 +59,35 @@ https://ats-resume-analyzer-backend-production.up.railway.app
 
 ---
 
-# Screenshots
+## 📸 Screenshots
 
-## Home Page
+### 🏠 Home Page
 
-(Add your first screenshot here)
-
----
-
-## Upload Resume
-
-(Add your second screenshot here)
+![Home](src/assets/Home.png)
 
 ---
 
-## Resume Analysis
+### 📄 Analyze
 
-(Add your third screenshot here)
+![Analyze](src/assets/Analyze.png)
 
 ---
+
+### 📊 Result
+
+![Result](src/assets/Result.png)
+
+---
+
+### 📊 Improvement
+
+![Improvement](src/assets/Improvement.png)
+
+---
+
+### 💡 AI Suggestions & Recommendation
+
+![Suggestions](src/assets/Suggestions.png)
 
 ## AI Suggestions
 
