@@ -16,8 +16,6 @@ import SummaryCard from "../components/SummaryCard";
 
 import ScoreBreakdownCard from "../components/ScoreBreakdownCard";
 
-import InterviewQuestion from "../components/InterviewQuestion";
-
 import { useLocation } from "react-router-dom";
 
 function Result() {
@@ -137,9 +135,6 @@ function Result() {
     strengths={data.strengths}
 />
 
-<InterviewQuestion
-    questions={data.interviewQuestions}
-/>
 
 <RecommendationCard
     recommendation={data.recommendation}
