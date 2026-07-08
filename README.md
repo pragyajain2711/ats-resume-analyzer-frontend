@@ -1,18 +1,18 @@
 # 🚀 AI ATS Resume Analyzer
 
-An AI-powered ATS Resume Analyzer built using React.js that analyzes resumes against job descriptions and provides an ATS compatibility score, missing keywords, skill analysis, and AI-powered recommendations.
+An AI-powered ATS Resume Analyzer that evaluates resumes against job descriptions and provides an ATS compatibility score, missing keywords, matched skills, AI-powered recommendations, and downloadable PDF reports.
 
 ## 🌐 Live Demo
 
-Frontend:
+### Frontend
 https://ats-resume-analyzer-frontend-two.vercel.app/
 
-Backend:
+### Backend API
 https://ats-resume-analyzer-backend-production.up.railway.app
 
 ---
 
-## ✨ Features
+# Features
 
 - Upload Resume (PDF)
 - Paste Job Description
@@ -23,53 +23,84 @@ https://ats-resume-analyzer-backend-production.up.railway.app
 - Missing Keywords Detection
 - AI Suggestions
 - Resume Strength Analysis
-- Professional ATS Report
+- Overall Recommendation
 - Download PDF Report
+- Responsive UI
 
 ---
 
-## 🛠 Tech Stack
+# Tech Stack
 
-Frontend
+### Frontend
 
 - React.js
 - Vite
+- JavaScript (ES6)
+- CSS3
 - Axios
 - React Router
-- HTML5
-- CSS3
-- JavaScript (ES6)
 - Lucide React
 - html2canvas
 - jsPDF
 
-Backend
+### Backend
 
-- Spring Boot
 - Java 21
+- Spring Boot
 - REST API
 - Apache PDFBox
 - Groq AI API
 
-Deployment
+### Deployment
 
 - Vercel
 - Railway
+- GitHub
 
 ---
 
-## 📂 Folder Structure
+# Screenshots
 
+## Home Page
+
+(Add your first screenshot here)
+
+---
+
+## Upload Resume
+
+(Add your second screenshot here)
+
+---
+
+## Resume Analysis
+
+(Add your third screenshot here)
+
+---
+
+## AI Suggestions
+
+(Add your fourth screenshot here)
+
+---
+
+# Folder Structure
+
+```
 src/
 │
+├── assets/
 ├── components/
 ├── pages/
 ├── services/
-├── assets/
+├── App.jsx
+└── main.jsx
+```
 
 ---
 
-## Installation
+# Installation
 
 ```bash
 git clone https://github.com/pragyajain2711/ats-resume-analyzer-frontend.git
@@ -83,22 +114,22 @@ npm run dev
 
 ---
 
-## Future Improvements
+# Future Improvements
 
-- User Authentication
+- Authentication
 - Resume History
 - DOCX Support
-- Charts & Analytics
 - AI Interview Questions
-- Dashboard
+- Dashboard Analytics
+- Multiple Resume Comparison
 
 ---
 
-## Author
+# Author
 
-**Pragya Jain**
+Pragya Jain
 
-LinkedIn:
+Linkedin:
 https://www.linkedin.com/in/pragyajain2711
 
 GitHub:
